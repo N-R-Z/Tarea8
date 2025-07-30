@@ -1,5 +1,4 @@
 <?php
-// Josue Bautista 2024-0252
 
 function generarNumeroRecibo() {
 
